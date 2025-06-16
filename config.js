@@ -14,16 +14,16 @@ function convertToBool(text, fault = 'true') {
 const defaultConfig = {
   SESSION_ID: "rdpzzZTD#WVx4MWNTG0whje5W7cX_3UCdXnid5c89TudRcaWq4dE", // Put your session id here
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
-  ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
-  OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
-  WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  ALIVE_MSG: "*Hello👋 Kavindu's Bot Is Alive Now😍*", // Change alive msg from here
+  OPENAI_API_KEY: "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",// Add OPENAI API key here
+  GEMINI_API_KEY: "AIzaSyCJVhtXaL_YID7JOpdtaH1q3fPKkoaJ-Mc", // Add Gemini API key here
+  REMOVE_BG_API_KEY:"xnfF9WGv7eBBDvbYdEf9wfga", // Add removebg API key here
+  WEATHER_API_KEY: "daedd5dc00054aab942184200251506", // Add your weather API key here
+  BOT_OWNER: "94756757490", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94756757490"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
-  AUTO_STATUS_REPLY: "true",
-  AUTO_STATUS_SEEN: "true",
+  AUTO_STATUS_REPLY: "false",
+  AUTO_STATUS_SEEN: "false",
   MODE: "public", // 'private', 'public'
 };
 
