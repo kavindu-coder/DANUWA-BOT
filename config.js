@@ -21,9 +21,9 @@ const defaultConfig = {
   WEATHER_API_KEY: "daedd5dc00054aab942184200251506", // Add your weather API key here
   BOT_OWNER: "94756757490", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94756757490"], // Replace your bot owner number here (same as bot owner number)
-  AUTO_STATUS_REACT: "true",
-  AUTO_STATUS_REPLY: "true",
-  AUTO_STATUS_SEEN: "true",
+  AUTO_STATUS_REACT: "false",
+  AUTO_STATUS_REPLY: "false",
+  AUTO_STATUS_SEEN: "false",
   MODE: "public", // 'private', 'public'
 };
 
